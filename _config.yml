@@ -1,0 +1,15 @@
+# Site settings
+title: Basil & Sage Massage and Self Care
+description: > # this means to ignore newlines until "baseurl:"
+  Basil & Sage Massage and Self Care 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.basilandsagemassage.com/" # the base hostname & protocol for your site
+twitter_username: mattvryan
+github_username:  mattvryan
+linkedin_username: mvryan
+year_range: 2023-2023
+
+# Build settings
+markdown: kramdown
+plugins: [jekyll-paginate]
+paginate: 5
